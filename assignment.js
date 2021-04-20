@@ -1,4 +1,5 @@
-
+// https://github.com/accountn/assignment.js
+ 
 
 //problem 1.
 function kilometerToMeter(m){
@@ -7,6 +8,8 @@ function kilometerToMeter(m){
 }
 var result = kilometerToMeter(7);
 console.log(result, "metter");
+
+
 
 //problem 2.
 function budgetCalculato(watch,phone,laptop){
@@ -18,6 +21,8 @@ function budgetCalculato(watch,phone,laptop){
 }
 var result = budgetCalculato(24,5,2);
 console.log(result);
+
+
 
 //problm 3.
 function hotelCost(day){
@@ -42,6 +47,8 @@ function hotelCost(day){
 }
 var result = hotelCost(22);
 console.log(result);
+
+
 
 //problem 4.
 function megaFriend(arr){
